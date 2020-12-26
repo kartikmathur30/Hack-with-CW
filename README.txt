@@ -6,7 +6,7 @@ Graphical user interface which assist user to access or read the information ava
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 How to setup software environment:
-Firstly, Run and install Pytesseract on your system using tesserace setup (Use link provided in the file "Pytesseract module download from here" to install setup).
+Firstly, Run and install Pytesseract on your system using tesserace setup (Use link: "https://github.com/UB-Mannheim/tesseract/wiki" to install setup).
 Next, run the Visiting card scanner application setup and Hurray! you are on-board.
 Now upload your Visiting/Bussiness card image and then convert it to text.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
